@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Udacity - Self-Driving Car P3](https://img.shields.io/badge/Status-Pass-Green.svg)
 
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 
 In this project I utillized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. My implimantation is obtaining RMSE values that are lower than the tolerance required. 
